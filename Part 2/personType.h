@@ -1,4 +1,18 @@
 #ifndef H_PersonType 
+/*! \file define.h
+    \brief testing defines
+    
+    This is to test the documentation of defines.
+*/
+ 
+/*!
+  \def H_PersonType
+  Defines PersonType.h
+*/
+ 
+/*! 
+   \brief Def personType \a x.
+*/
 #define H_PersonType 
  
 #include <string> 
