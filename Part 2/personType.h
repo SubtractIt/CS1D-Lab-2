@@ -20,6 +20,10 @@
 using namespace std; 
  
  /* personType class */
+ /*! \class personType.h "inc/personType.h"
+ *  \brief This serves as the base class personType.
+ *
+ */
 class personType 
 { 
 public: 
@@ -51,8 +55,5 @@ private:
     string lastName;  /** <store the last name */ 
 }; 
 
-/*! \class personType.h "inc/personType.h"
- *  \brief This serves as the base class personType.
- *
- */
+
 #endif 
