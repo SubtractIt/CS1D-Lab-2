@@ -5,6 +5,7 @@
  
 using namespace std; 
  
+ /* personType class */
 class personType 
 { 
 public: 
@@ -32,7 +33,12 @@ public:
      //Post: firstName = ""; lastName = ""; 
  
 private: 
-    string firstName; //store the first name 
-    string lastName;  //store the last name 
+    string firstName; /** <store the first name */
+    string lastName;  /** <store the last name */ 
 }; 
+
+/*! \class personType.h "inc/personType.h"
+ *  \brief This serves as the base class personType.
+ *
+ */
 #endif 
