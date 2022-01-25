@@ -1,10 +1,10 @@
 #include "personType.h"
 
-/*! partTimeEmployee class */
-/*! \class partTimeEmployee.h "inc/partTimeEmployee.h"
+/*! 
  *  \brief This is a partTimeEmployee class.
- *
- * Some details about the partTimeEmployee class.
+ *  \author Danny Cowles
+ *  \author Adit Mohindra
+ *  \date   1/24/22
  */
 class partTimeEmployee: public personType
 {
@@ -46,5 +46,3 @@ private:
  double payRate;    /**< double stores the pay rate */
  double hoursWorked; /**< double store the hours worked */
 };
-
-

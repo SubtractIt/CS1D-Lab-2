@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classpart_time_employee_1_1h.html" title="This is a partTimeEmployee class." alt="" coords="5,5,44,32"/>
+<area shape="rect" id="node1" href="$classperson_type.html" title="This serves as the base class personType." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node2" href="$classpart_time_employee.html" title="This is a partTimeEmployee class." alt="" coords="143,5,273,32"/>
 </map>
