@@ -1,8 +1,8 @@
 var indexSectionsWithContent =
 {
-  0: "gps",
+  0: "cgps",
   1: "p",
-  2: "gps"
+  2: "cgps"
 };
 
 var indexSectionNames =
