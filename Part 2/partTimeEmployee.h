@@ -42,7 +42,7 @@ private:
  double hoursWorked; /**< double store the hours worked */
 };
 
-/*! \class Test partTimeEmployee.h "inc/partTimeEmployee.h"
+/*! \class partTimeEmployee.h "inc/partTimeEmployee.h"
  *  \brief This is a partTimeEmployee class.
  *
  * Some details about the partTimeEmployee class.
