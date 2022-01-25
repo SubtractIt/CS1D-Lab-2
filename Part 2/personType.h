@@ -20,7 +20,7 @@
 using namespace std; 
  
  /* personType class */
- /*! \class personType.h "inc/personType.h"
+ /*! \class personType.h ""
  *  \brief This serves as the base class personType.
  *
  */
