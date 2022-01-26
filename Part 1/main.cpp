@@ -3,6 +3,8 @@
 //============================================================
 #include <iostream>
 #include <string>
+#include "hello1function.cpp"
+#include "hello2function.cpp"
 
 using namespace std;
 int hello1Function(string name1);
